@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <iostream>
 using namespace std;
+void print()
+{
+	cout << "this is print function" << endl;
+	return;
+}
 int main(int argc, char *argv[])
 {
 	int i = 0;
