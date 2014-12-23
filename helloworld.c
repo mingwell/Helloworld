@@ -15,7 +15,10 @@ int sub(int a, int b)
 {
 	return a-b;
 }
-
+int multiply(int a, int b)
+{
+	return a*b;
+}
 int main(int argc, char *argv[])
 {
 	int i = 0;
