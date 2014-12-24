@@ -19,6 +19,14 @@ int multiply(int a, int b)
 {
 	return a*b;
 }
+bool big(int a, int b)
+{
+	return a>b;
+}
+bool samll(int a, int b)
+{	
+	return a < b;
+}
 int main(int argc, char *argv[])
 {
 	int i = 0;
