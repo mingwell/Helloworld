@@ -30,6 +30,7 @@ bool samll(int a, int b)
 int main(int argc, char *argv[])
 {
 	int i = 0;
+	printf("it is a long time no see\n");
 	for ( i = 0; i < 10; ++i)
 	{
 		printf("helllo git\n");
