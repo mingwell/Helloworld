@@ -27,6 +27,10 @@ bool samll(int a, int b)
 {	
 	return a < b;
 }
+int getvalue()
+{
+ 	return 1;
+}
 int main(int argc, char *argv[])
 {
 	int i = 0;
