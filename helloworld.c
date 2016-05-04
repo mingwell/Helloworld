@@ -40,5 +40,9 @@ int main(int argc, char *argv[])
 	{
 		printf("helllo git\n");
 	}
+	for(int j = 0; j < 10; j++)
+	{
+		printf("test twice\n");
+	}
 	return 0;
 }
